@@ -1,0 +1,670 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "laptopy",
+      "description": "Przenośne komputery, idealne dla osób, które potrzebują mobilnego rozwiązania."
+    },
+    {
+      "id": 2,
+      "name": "komputery",
+      "description": "Stacjonarne komputery, idealne dla osób, które potrzebują wydajnego i stabilnego rozwiązania."
+    },
+    {
+      "id": 3,
+      "name": "tablety",
+      "description": "Mobilne urządzenia z ekranem dotykowym, idealne dla osób, które potrzebują mobilnego rozwiązania."
+    },
+    {
+      "id": 4,
+      "name": "sprzęt AGD",
+      "description": "Urządzenia AGD do użytku domowego, takie jak lodówki, pralki, odkurzacze, itp."
+    },
+    {
+      "id": 5,
+      "name": "podzespoły",
+      "description": "Elementy komputera, takie jak procesory, karty graficzne, płyty główne i inne, które są niezbędne do jego działania."
+    },
+    {
+      "id": 6,
+      "name": "gaming",
+      "description": "Mocne komputery, laptopy i akcesoria, stworzone z myślą o zaawansowanej grze wideo i zapewnieniu najwyższej jakości doznań wizualnych i dźwiękowych."
+    },
+    {
+      "id": 7,
+      "name": "smartfony i smartwatche",
+      "description": "Urządzenia mobilne, takie jak telefony komórkowe i zegarki inteligentne, umożliwiające korzystanie z Internetu, prowadzenie rozmów i wiele innych funkcji."
+    },
+    {
+      "id": 8,
+      "name": "telewizory i audio",
+      "description": "Urządzenia multimedialne do użytku domowego, takie jak telewizory, soundbary, głośniki i wiele innych, zapewniające doskonałą jakość dźwięku i obrazu."
+    },
+    {
+      "id": 9,
+      "name": "foto i kamery",
+      "description": "Urządzenia służące do robienia zdjęć i nagrywania filmów, takie jak aparaty fotograficzne, kamery i akcesoria do nich, umożliwiające tworzenie wysokiej jakości treści wizualnych."
+    },
+    {
+      "id": 10,
+      "name": "AGD duże",
+      "description": "Duże urządzenia AGD do użytku domowego, takie jak lodówki, pralki, zmywarki i wiele innych, ułatwiające codzienne życie."
+    },
+    {
+      "id": 11,
+      "name": "AGD małe",
+      "description": "Małe urządzenia AGD do użytku domowego, takie jak tostery, czajniki, ekspresy do kawy i wiele innych, ułatwiające codzienne życie."
+    },
+    {
+      "id": 12,
+      "name": "dom i ogród",
+      "description": "Produkty związane z urządzaniem wnętrz i pielęgnacją ogrodu, takie jak meble, dekoracje, narzędzia i wiele innych, pozwalające stworzyć przytulne i funkcjonalne miejsce do życia."
+    },
+    {
+      "id": 13,
+      "name": "biuro i firma",
+      "description": "Produkty przeznaczone do pracy biurowej i zarządzania firmą, takie jak komputery, drukarki, urządzenia wielofunkcyjne i wiele innych, ułatwiające prowadzenie działalności."
+    },
+    {
+      "id": 14,
+      "name": "sport i turystyka",
+      "description": "Kategoria obejmująca produkty związane ze sportem i rekreacją, takie jak sprzęt sportowy, akcesoria turystyczne, kempingowe oraz wędkarskie."
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Lenovo ThinkPad X1 Carbon",
+      "description": "Ultralekki laptop biznesowy z ekranem 14 cali.",
+      "image_url": "https://static.komputronik.pl/product-picture/6/NBIBM21CB007GPB-1.jpg",
+      "price": 6599,
+      "manufacturer": "Lenovo",
+      "category_id": 1
+    },
+    {
+      "id": 102,
+      "name": "Laptop Acer Predator Helios 300",
+      "description": "Wydajny laptop dla graczy z procesorem Intel i kartą graficzną NVIDIA.",
+      "image_url": "https://static.komputronik.pl/product-picture/6/NBASUUX582ZW-H2004X-1.jpg",
+      "price": 4999,
+      "manufacturer": "Acer",
+      "category_id": 1
+    },
+    {
+      "id": 103,
+      "name": "Laptop Microsoft Surface Laptop 4",
+      "description": "Elegancki laptop z wysokiej jakości ekranem dotykowym.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/43/4390056/Laptop-HP-Envy-X360-13-bf0113nw-2.jpg",
+      "price": 4899,
+      "manufacturer": "Microsoft",
+      "category_id": 1
+    },
+    {
+      "id": 104,
+      "name": "Laptop MSI GS66 Stealth",
+      "description": "Przenośny laptop dla graczy z potężnymi podzespołami i stylowym designem.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/43/4390056/Laptop-HP-Envy-X360-13-bf0113nw-2.jpg",
+      "price": 6999,
+      "manufacturer": "MSI",
+      "category_id": 1
+    },
+    {
+      "id": 105,
+      "name": "Laptop Lenovo Yoga C940",
+      "description": "Konwertowalny laptop z dotykowym ekranem i solidnym wykonaniem.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/37/3735966/Laptop-DELL-Latitude-5420-1.jpg",
+      "price": 4399,
+      "manufacturer": "Lenovo",
+      "category_id": 1
+    },
+    {
+      "id": 106,
+      "name": "Laptop Asus ROG Zephyrus G14",
+      "description": "Laptop gamingowy z wydajnym procesorem Ryzen i kartą graficzną GeForce RTX.",
+      "image_url": "https://static.komputronik.pl/product-picture/6/NBASUUX582ZW-H2004X-1.jpg",
+      "price": 5899,
+      "manufacturer": "Asus",
+      "category_id": 1
+    },
+    {
+      "id": 107,
+      "name": "Laptop HP Pavilion 15",
+      "description": "Uniwersalny laptop o dobrym stosunku jakości do ceny.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/43/4390056/Laptop-HP-Envy-X360-13-bf0113nw-2.jpg",
+      "price": 2899,
+      "manufacturer": "HP",
+      "category_id": 1
+    },
+    {
+      "id": 108,
+      "name": "Laptop Apple MacBook Air",
+      "description": "Lekki i przenośny laptop z systemem macOS i długim czasem pracy na baterii.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/42/4242284/Laptop-DELL-XPS-9315-9164-skos-lewy.jpg",
+      "price": 5799,
+      "manufacturer": "Apple",
+      "category_id": 1
+    },
+    {
+      "id": 109,
+      "name": "Laptop Dell Inspiron 15",
+      "description": "Wielozadaniowy laptop z solidnymi specyfikacjami i przystępną ceną.",
+      "image_url": "https://static.komputronik.pl/product-picture/6/NBASUUX582ZW-H2004X-1.jpg",
+      "price": 3199,
+      "manufacturer": "Dell",
+      "category_id": 1
+    },
+    {
+      "id": 110,
+      "name": "Laptop Lenovo Legion 5",
+      "description": "Laptop gamingowy z wydajnymi podzespołami i zaawansowanymi funkcjami chłodzenia.",
+      "image_url": "https://static.komputronik.pl/product-picture/6/NBIBM21CB007GPB-1.jpg",
+      "price": 4499,
+      "manufacturer": "Lenovo",
+      "category_id": 1
+    },
+    {
+      "id": 111,
+      "name": "Laptop Acer Swift 3",
+      "description": "Lekki laptop z dobrymi parametrami i atrakcyjnym wyglądem.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/43/4390056/Laptop-HP-Envy-X360-13-bf0113nw-2.jpg",
+      "price": 2699,
+      "manufacturer": "Acer",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Laptop Dell XPS 13",
+      "description": "Najmniejszy laptop z serii XPS, z ekranem 13 cali.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/42/4242284/Laptop-DELL-XPS-9315-9164-skos-lewy.jpg",
+      "price": 5699,
+      "manufacturer": "Dell",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Laptop Asus ZenBook Pro Duo",
+      "description": "Laptop z dwoma ekranami, idealny dla osób potrzebujących większej przestrzeni roboczej.",
+      "image_url": "https://static.komputronik.pl/product-picture/6/NBASUUX582ZW-H2004X-1.jpg",
+      "price": 2799,
+      "manufacturer": "Asus",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Laptop HP Spectre x360",
+      "description": "Laptop konwertowalny z ekranem dotykowym, idealny dla osób potrzebujących większej elastyczności.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/43/4390056/Laptop-HP-Envy-X360-13-bf0113nw-2.jpg",
+      "price": 2999,
+      "manufacturer": "HP",
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Komputer stacjonarny Lenovo ThinkCentre M920",
+      "description": "Stacjonarny komputer biurowy z procesorem Intel Core i5.",
+      "image_url": "https://www.comtrade.pl/pol_pm_Lenovo-ThinkCentre-M920s-SFF-Core-i5-8500-8-gen-3-0-GHz-8-GB-240-SSD-Win-11-Prof-30967_2.webp",
+      "price": 3599,
+      "manufacturer": "Lenovo",
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "Komputer stacjonarny Dell OptiPlex 7090",
+      "description": "Stacjonarny komputer biurowy z procesorem Intel Core i7.",
+      "image_url": "https://www.proshop.pl/Images/300x251/3157057_6650ae9ba59f.jpg",
+      "price": 5899,
+      "manufacturer": "Dell",
+      "category_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Komputer stacjonarny Lenovo ThinkCentre M920s",
+      "description": "Komputer stacjonarny z procesorem Intel Core i7 i 16GB RAM.",
+      "image_url": "https://f00.esfr.pl/foto/7/120000163737/2e12f9c82c87167a2d34ac34cc9f6c5c/lenovo-komputer-pc-leno-i712700-8gb-512gb-w11p,120000163737_3.jpg",
+      "price": 5699,
+      "manufacturer": "Lenovo",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "Komputer stacjonarny HP EliteDesk 800 G8 Tower",
+      "description": "Komputer stacjonarny z procesorem Intel Core i7-11700 i 16GB RAM.",
+      "image_url": "https://f00.esfr.pl/foto/6/120000205881/1e64992d34009477aab933628be39ed1/hp-komputer-pc-hp-i7-12700-16gb-512gb-w11p_3,120000205881_3.jpg",
+      "price": 6199,
+      "manufacturer": "HP",
+      "category_id": 2
+    },
+    {
+      "id": 9,
+      "name": "Tablet Samsung Galaxy Tab S7",
+      "description": "Tablet z wyświetlaczem Super AMOLED o przekątnej 11 cali, procesorem Qualcomm Snapdragon 865+ i systemem Android 11.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/30/3037048/Tablet-SAMSUNG-Galaxy-Tab-S7-FE-Czarny-front.jpg",
+      "price": 3199,
+      "manufacturer": "Samsung",
+      "category_id": 3
+    },
+    {
+      "id": 10,
+      "name": "Tablet Apple iPad Pro (2021)",
+      "description": "Tablet z wyświetlaczem Liquid Retina o przekątnej 12,9 cala, procesorem M1 i systemem iPadOS 14.",
+      "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-space-gray-wifi_FMT_WHH?wid=1280&hei=720&fmt=jpeg&qlt=90&.v=1670865949310",
+      "price": 6199,
+      "manufacturer": "Apple",
+      "category_id": 3
+    },
+    {
+      "id": 11,
+      "name": "Tablet Huawei MatePad Pro",
+      "description": "Tablet z wyświetlaczem OLED o przekątnej 10,8 cala, procesorem HiSilicon Kirin 990 i systemem EMUI 10.1.",
+      "image_url": "https://img.gkbcdn.com/s3/p/2019-11-29/Huawei-MatePad-Pro-4G-LTE-Tablet-PC-Android-10-0-8GB-256GB-Gray-889800-.jpg",
+      "price": 2999,
+      "manufacturer": "Huawei",
+      "category_id": 3
+    },
+    {
+      "id": 12,
+      "name": "Tablet Lenovo Tab P11 Pro",
+      "description": "Tablet z wyświetlaczem OLED o przekątnej 11,5 cala, procesorem Qualcomm Snapdragon 730G i systemem Android 10.",
+      "image_url": "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MjU4MzQyfGltYWdlL3BuZ3xoZjIvaGJiLzE1MDc4MDE5NzI3MzkwLnBuZ3xmYzAwMTkwYTQyMjRjY2I0MGNjYjhmNTNjN2QzMzU0MmYwYTA2NmJlYWMxMTFlYjFmYjZhZjVkNDZiNjhjMjVj",
+      "price": 1999,
+      "manufacturer": "Lenovo",
+      "category_id": 3
+    },
+    {
+      "id": 13,
+      "name": "Smartfon Samsung Galaxy S21",
+      "description": "Flagowy smartfon z procesorem Exynos 2100, ekranem AMOLED 6.2 cala i aparatem z rozdzielczością 64 MP.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/35/3508358/Smartfon-SAMSUNG-Galaxy-S22-8-128GB-5G-120-Hz-Rozowy-SM-S901-tyl-front.jpg",
+      "price": 3499,
+      "manufacturer": "Samsung",
+      "category_id": 4
+    },
+    {
+      "id": 14,
+      "name": "Kamera GoPro HERO9 Black",
+      "description": "Kompaktowa kamera sportowa z matrycą 23.6 MP, możliwością nagrywania wideo w 5K i funkcją HyperSmooth 3.0.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/25/2543114/Gopro-hero9-zdjecie-1.jpg",
+      "price": 2099,
+      "manufacturer": "GoPro",
+      "category_id": 4
+    },
+    {
+      "id": 15,
+      "name": "Smartwatch Apple Watch Series 7",
+      "description": "Elegancki smartwatch z ekranem Retina Always-On, wsparciem dla eSIM i detekcją upadku.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/32/3269554/Apple-Watch-Series-7-Stal-Aluminium-Ksiezycowa-poswiata.jpg",
+      "price": 1999,
+      "manufacturer": "Apple",
+      "category_id": 4
+    },
+    {
+      "id": 16,
+      "name": "Odkurzacz robot Xiaomi Mi Robot Vacuum Mop Pro+",
+      "description": "Inteligentny odkurzacz z funkcją mopowania, systemem LDS i możliwością sterowania za pomocą aplikacji na smartfona.",
+      "image_url": "https://images.morele.net/i500/5946890_0_i500.jpg",
+      "price": 1999,
+      "manufacturer": "Xiaomi",
+      "category_id": 4
+    },
+    {
+      "id": 17,
+      "name": "Procesor Intel Core i9-12900K",
+      "description": "Dwunastordzeniowy procesor z 24-wątkami, taktowaniem bazowym 3,2 GHz i możliwością podkręcenia do 5,2 GHz.",
+      "image_url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2021/10/pr_2021_10_26_7_49_18_782_00.jpg",
+      "price": 3499,
+      "manufacturer": "Intel",
+      "category_id": 5
+    },
+    {
+      "id": 18,
+      "name": "Karta graficzna NVIDIA GeForce RTX 3080 Ti",
+      "description": "Karta graficzna z 12 GB pamięci GDDR6X, rdzeniem GA102 i taktowaniem bazowym 1365 MHz.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/54/5413800/Karta-graficzna-MSI-GeForce-RTX-4070-01-front.jpg",
+      "price": 4999,
+      "manufacturer": "NVIDIA",
+      "category_id": 5
+    },
+    {
+      "id": 19,
+      "name": "Płyta główna ASUS ROG Maximus XIII Extreme",
+      "description": "Płyta główna z chipsetem Intel Z590, obsługująca procesory Intel Core 11. generacji, z trzema gniazdami M.2, czterema slotami PCIe x16 oraz zintegrowanym systemem chłodzenia VRM.",
+      "image_url": "https://asset.conrad.com/media10/isa/160267/c1/-/pl/002359152PI00/image.jpg?x=1000&y=1000&format=jpg&ex=1000&ey=1000&align=center",
+      "price": 3699,
+      "manufacturer": "ASUS",
+      "category_id": 5
+    },
+    {
+      "id": 20,
+      "name": "Dysk SSD Samsung 980 PRO 1 TB",
+      "description": "Dysk SSD M.2 PCIe 4.0 z odczytem sekwencyjnym do 7000 MB/s i zapisem sekwencyjnym do 5000 MB/s.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/25/2573513/Dysk-SAMSUNG-980-Pro-500-GB-SSD-front-bez-linku.jpg",
+      "price": 1499,
+      "manufacturer": "Samsung",
+      "category_id": 5
+    },
+    {
+      "id": 21,
+      "name": "Klawiatura mechaniczna Razer BlackWidow Elite",
+      "description": "Klawiatura mechaniczna z przełącznikami Razer Green, podświetleniem Chroma RGB oraz osobnymi przyciskami multimedialnymi.",
+      "image_url": "https://prod-api.mediamarkt.pl/api/images/gallery_545_400/thumbnails/images/21/21316244/razer-blackwidow-v3-green-switch-1.jpg",
+      "price": 579,
+      "manufacturer": "Razer",
+      "category_id": 6
+    },
+    {
+      "id": 22,
+      "name": "Słuchawki bezprzewodowe SteelSeries Arctis 7",
+      "description": "Słuchawki bezprzewodowe z dźwiękiem przestrzennym 7.1, mikrofonem ClearCast oraz 24-godzinnym czasem pracy na jednym ładowaniu.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/35/3533649/Sluchawki-STEELSERIES-Arctis-7-plus-czarny-1.jpg",
+      "price": 679,
+      "manufacturer": "SteelSeries",
+      "category_id": 6
+    },
+    {
+      "id": 23,
+      "name": "Myszka dla graczy Logitech G502 HERO",
+      "description": "Myszka dla graczy z precyzyjnym sensorem HERO, 11 programowalnymi przyciskami oraz systemem wagi tuningu.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/16/1689013/Mysz-LOGITECH-G502-Hero-1.jpg",
+      "price": 299,
+      "manufacturer": "Logitech",
+      "category_id": 6
+    },
+    {
+      "id": 24,
+      "name": "Monitor dla graczy Dell Alienware AW3418DW",
+      "description": "Monitor dla graczy z krzywizną ekranu 1900R, rozdzielczością UWQHD, odświeżaniem 120 Hz oraz obsługą G-SYNC.",
+      "image_url": "https://static.komputronik.pl/product-picture/11/MO210BDSZF-1.jpg",
+      "price": 3699,
+      "manufacturer": "Dell",
+      "category_id": 6
+    },
+    {
+      "id": 25,
+      "name": "Smartfon Samsung Galaxy S21",
+      "description": "Smartfon z ekranem Dynamic AMOLED 2X o przekątnej 6,2 cala, procesorem Exynos 2100 i systemem Android 11.",
+      "image_url": "https://image.ceneostatic.pl/data/products/98143284/i-samsung-galaxy-s21-5g-sm-g991-8-128gb-szary.jpg",
+      "price": 3199,
+      "manufacturer": "Samsung",
+      "category_id": 7
+    },
+    {
+      "id": 26,
+      "name": "Smartwatch Apple Watch Series 7",
+      "description": "Smartwatch z ekranem Retina o przekątnej 45 mm, czujnikiem EKG i funkcją walkie-talkie.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/32/3269554/Apple-Watch-Series-7-Stal-Aluminium-Ksiezycowa-poswiata.jpg",
+      "price": 1999,
+      "manufacturer": "Apple",
+      "category_id": 7
+    },
+    {
+      "id": 27,
+      "name": "Smartfon OnePlus 9 Pro",
+      "description": "Smartfon z ekranem Fluid AMOLED o przekątnej 6,7 cala, procesorem Snapdragon 888 i systemem OxygenOS 11.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/37/3760410/Smartfon-ONEPLUS-Nord-2T-5G-Szary-front-tyl.jpg",
+      "price": 3999,
+      "manufacturer": "OnePlus",
+      "category_id": 7
+    },
+    {
+      "id": 28,
+      "name": "Smartwatch Garmin Forerunner 945",
+      "description": "Smartwatch dla biegaczy z GPS i pulsometrem, wodoszczelność 5 ATM.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/19/1997281/Zegarek-GARMIN-Fenix-6-Pro-Czarny-Zabezpieczenie-ekranu-front.jpg",
+      "price": 2799,
+      "manufacturer": "Garmin",
+      "category_id": 7
+    },
+    {
+      "id": 29,
+      "name": "Telewizor Samsung UE55TU7172",
+      "description": "55-calowy telewizor z funkcją Smart TV, rozdzielczością 4K Ultra HD i technologią HDR.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/27/2797619/Telewizor-SAMSUNG-LED-UE55AU7192-lewy-skos.jpg",
+      "price": 2499,
+      "manufacturer": "Samsung",
+      "category_id": 8
+    },
+    {
+      "id": 30,
+      "name": "Kolumny głośnikowe Creative Gigaworks T40",
+      "description": "Kolumny głośnikowe o mocy 32 W i technologii BasXPort, zapewniające wyjątkowe brzmienie.",
+      "image_url": "https://d287ku8w5owj51.cloudfront.net/images/products/hero/others/hero-gigaworks-t40-series-ii.jpg?width=800&height=800",
+      "price": 499,
+      "manufacturer": "Creative",
+      "category_id": 8
+    },
+    {
+      "id": 31,
+      "name": "Soundbar Samsung HW-R450",
+      "description": "Soundbar o mocy 200 W, z funkcją Bluetooth i możliwością podłączenia do telewizora.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/36/3672596/Soundbar-SAMSUNG-HW-B450-Czarny-front.jpg",
+      "price": 799,
+      "manufacturer": "Samsung",
+      "category_id": 8
+    },
+    {
+      "id": 32,
+      "name": "Telewizor LG OLED55CX6",
+      "description": "55-calowy telewizor z funkcją Smart TV, rozdzielczością 4K Ultra HD i technologią OLED.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/27/2730723/oled55c12la.jpg",
+      "price": 4999,
+      "manufacturer": "LG",
+      "category_id": 8
+    },
+    {
+      "id": 33,
+      "name": "Aparat cyfrowy Canon EOS R6",
+      "description": "Aparat z matrycą CMOS o rozdzielczości 20,1 MP, procesorem DIGIC X i filmowaniem 4K.",
+      "image_url": "https://u.cyfrowe.pl/600x0/5/7/02_R6MarkII_FrontSlantLeft_BODY[1]_416052257.jpg",
+      "price": 9399,
+      "manufacturer": "Canon",
+      "category_id": 9
+    },
+    {
+      "id": 34,
+      "name": "Kamera sportowa GoPro HERO10 Black",
+      "description": "Kamera z nagrywaniem wideo w jakości 5,3K i funkcją HyperSmooth 4.0.",
+      "image_url": "https://www.mediaexpert.pl/media/cache/resolve/gallery/images/31/3125840/Kamera-sportowa-GOPRO-HERO10-Black-front45.jpeg",
+      "price": 2499,
+      "manufacturer": "GoPro",
+      "category_id": 9
+    },
+    {
+      "id": 35,
+      "name": "Aparat kompaktowy Sony Cyber-shot DSC-RX100 VII",
+      "description": "Aparat z matrycą Exmor RS o rozdzielczości 20,1 MP i filmowaniem 4K HDR.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/25/2586633/Aparat-SONY-DSC-RX100-M7-Czarny-skos.jpg",
+      "price": 5199,
+      "manufacturer": "Sony",
+      "category_id": 9
+    },
+    {
+      "id": 36,
+      "name": "Lustrzanka cyfrowa Nikon D850",
+      "description": "Lustrzanka z matrycą CMOS o rozdzielczości 45,7 MP i filmowaniem 4K UHD.",
+      "image_url": "https://image.ceneostatic.pl/data/products/55201215/i-nikon-d850-body.jpg",
+      "price": 12499,
+      "manufacturer": "Nikon",
+      "category_id": 9
+    },
+    {
+      "id": 37,
+      "name": "Pralka automatyczna LG F4WV908P1",
+      "description": "Pralka automatyczna o pojemności 9 kg, z funkcją parowania, systemem AI DD i napędem Direct Drive.",
+      "image_url": "https://www.lg.com/pl/images/pralki/md07521207/D-02.jpg",
+      "price": 2599,
+      "manufacturer": "LG",
+      "category_id": 10
+    },
+    {
+      "id": 38,
+      "name": "Lodówka Samsung RF62QEPN1",
+      "description": "Lodówka side-by-side o pojemności 620 litrów, z dispenserem na wodę i lód oraz technologią Twin Cooling Plus.",
+      "image_url": "https://a.allegroimg.com/original/1e5934/93007f85456aa26bc75ecd955c89",
+      "price": 5399,
+      "manufacturer": "Samsung",
+      "category_id": 10
+    },
+    {
+      "id": 39,
+      "name": "Zmywarka Bosch SMS25AW01E",
+      "description": "Zmywarka do zabudowy o pojemności 12 kompletów, z systemem Aquastop i programem EcoSilence Drive.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/91/914462/MCSA01736706_G5167_SMV25AX00E_1177713_def.jpg",
+      "price": 1499,
+      "manufacturer": "Bosch",
+      "category_id": 10
+    },
+    {
+      "id": 40,
+      "name": "Kuchenka gazowa Gorenje K5310XH",
+      "description": "Kuchenka gazowa z 4 palnikami, piekarnikiem o pojemności 67 litrów i funkcją samoczyszczenia.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/39/3997932/Kuchnia-GORENJE-MEK3011SB-lewy-bok.jpg",
+      "price": 1599,
+      "manufacturer": "Gorenje",
+      "category_id": 10
+    },
+    {
+      "id": 41,
+      "name": "Odkurzacz ręczny Black+Decker PD1820LF",
+      "description": "Bezprzewodowy odkurzacz ręczny z filtrem HEPA, mocą 35 W i czasem pracy do 15 minut.",
+      "image_url": "https://www.dewalt.com.pl/893-large_default/pd1820lf-odkurzacz-reczny-dustbuster-flexi-18-v-li-ion-szczotka-do-czyszczenia-podlog.jpg",
+      "price": 249,
+      "manufacturer": "Black+Decker",
+      "category_id": 11
+    },
+    {
+      "id": 42,
+      "name": "Ekspres do kawy Philips Senseo Original HD6554/21",
+      "description": "Ekspres przeznaczony do przygotowania kawy typu pad, posiada funkcję automatycznego wyłączania po 30 minutach bezczynności.",
+      "image_url": "https://kaffekapslen.media/media/catalog/product/cache/943794e2775b00c1d1130998d5fd15f1/s/e/senseo-original-eco-hd6552-black-0011.jpg",
+      "price": 189,
+      "manufacturer": "Philips",
+      "category_id": 11
+    },
+    {
+      "id": 43,
+      "name": "Piekarnik elektryczny Zanussi ZOB25602XK",
+      "description": "Piekarnik elektryczny z funkcją grillowania, pojemnością 58 litrów oraz wyposażony w funkcję samooczyszczania.",
+      "image_url": "https://preview.free3d.com/img/2018/11/2145913574453676009/io1a8935.jpg",
+      "price": 1399,
+      "manufacturer": "Zanussi",
+      "category_id": 11
+    },
+    {
+      "id": 44,
+      "name": "Czajnik elektryczny Tefal KI240D10",
+      "description": "Czajnik elektryczny o pojemności 1,7 litra, z funkcją automatycznego wyłączania po zagotowaniu wody oraz z filtrem przeciw kamieniowi.",
+      "image_url": "https://m.media-amazon.com/images/I/51HFWdh-03L._AC_UF1000,1000_QL80_.jpg",
+      "price": 99,
+      "manufacturer": "Tefal",
+      "category_id": 11
+    },
+    {
+      "id": 45,
+      "name": "Robot sprzątający Xiaomi Mi Robot Vacuum",
+      "description": "Automatyczny odkurzacz z systemem LiDAR i żyroskopem, sterowany przez aplikację mobilną.",
+      "image_url": "https://satysfakcja.stati.pl/allegro_new/AGD/XIAOMI/Mi_Robot_Vacuum_Mop_Pro_Black//f1-robot-sprzatajacy-xiaomi-Mi_Robot_Vacuum_Mop_Pro_Black.jpg",
+      "price": 1699,
+      "manufacturer": "Xiaomi",
+      "category_id": 12
+    },
+    {
+      "id": 46,
+      "name": "Oczyszczacz powietrza Philips AC2887/10",
+      "description": "Oczyszczacz powietrza z systemem filtrów HEPA i aktywnym węglem, z czujnikiem jakości powietrza i trybem automatycznym.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/97/978028/Oczyszczacz-powietrza-PHILIPS-AC2889-10-wifi-wer3x.jpg",
+      "price": 1499,
+      "manufacturer": "Philips",
+      "category_id": 12
+    },
+    {
+      "id": 47,
+      "name": "Kawa ziarnista Lavazza Qualita Rossa",
+      "description": "Kawa ziarnista o wyrazistym smaku i aromacie, idealna do espresso i kaw mlecznych.",
+      "image_url": "https://i.erli.pl/436nwr.24ad1e.l.webp",
+      "price": 27.99,
+      "manufacturer": "Lavazza",
+      "category_id": 12
+    },
+    {
+      "id": 48,
+      "name": "Miska dla kota Catit Senses 2.0",
+      "description": "Miska dla kota z systemem filtracji wody, zapewniająca świeżą i czystą wodę przez cały dzień.",
+      "image_url": "https://shop-cdn-m.mediazs.com/bilder/catit/senses/miska/z/traw/2/800/73855_pla_hagen_catitsenses2_0_grastopf_2.jpg",
+      "price": 79,
+      "manufacturer": "Catit",
+      "category_id": 12
+    },
+    {
+      "id": 49,
+      "name": "Drukarka laserowa HP Color LaserJet Pro MFP M281fdw",
+      "description": "Drukarka laserowa wielofunkcyjna z kolorowym wyświetlaczem dotykowym i funkcjami drukowania, kopiowania, skanowania i faksowania.",
+      "image_url": "https://m.media-amazon.com/images/I/71BCGjYy1HL.jpg",
+      "price": 2199,
+      "manufacturer": "HP",
+      "category_id": 13
+    },
+    {
+      "id": 50,
+      "name": "Laptop Dell Latitude 5420",
+      "description": "Laptop z procesorem Intel Core i5-1135G7, 8 GB RAM i dyskiem SSD o pojemności 256 GB.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/37/3735966/Laptop-DELL-Latitude-5420-1.jpg",
+      "price": 4299,
+      "manufacturer": "Dell",
+      "category_id": 13
+    },
+    {
+      "id": 51,
+      "name": "Monitor Dell UltraSharp U2719D",
+      "description": "Monitor z matrycą IPS o przekątnej 27 cali i rozdzielczości 2560x1440 pikseli.",
+      "image_url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2018/10/pr_2018_10_17_15_2_4_804_05.jpg",
+      "price": 1979,
+      "manufacturer": "Dell",
+      "category_id": 13
+    },
+    {
+      "id": 52,
+      "name": "Mysz bezprzewodowa Logitech MX Master 3",
+      "description": "Mysz bezprzewodowa z precyzyjnym czujnikiem Darkfield i przyciskami programowalnymi.",
+      "image_url": "https://prod-api.mediamarkt.pl/api/images/gallery_545_400/thumbnails/images/20/20982180/mx-master-3-grafitowy-1.jpg",
+      "price": 369,
+      "manufacturer": "Logitech",
+      "category_id": 13
+    },
+    {
+      "id": 53,
+      "name": "Kurtka trekkingowa Hi-Tec",
+      "description": "Kurtka trekkingowa Hi-Tec wykonana z wodoodpornej tkaniny, zapinana na zamek błyskawiczny, z regulowanym kapturem i mankietami oraz wieloma kieszeniami.",
+      "image_url": "https://sklepmartes.pl/media/catalog/product/cache/44e5e6a5de13081f430826f494e7fd04/_/5/_5902786106585_-001-ORATI-black_olives-black_2.webp",
+      "price": 349,
+      "manufacturer": "Hi-Tec",
+      "category_id": 14
+    },
+    {
+      "id": 54,
+      "name": "Buty narciarskie Salomon X Access 80",
+      "description": "Buty narciarskie Salomon X Access 80 o sztywności 80, z systemem Custom Shell, zapewniającym indywidualne dopasowanie do stopy, z dwustrefowym korkiem i systemem mocowania na trzy klamry.",
+      "image_url": "https://www.tradeinn.com/f/13719/137199817/salomon-x-access-80-wide-boswelia.jpg",
+      "price": 899,
+      "manufacturer": "Salomon",
+      "category_id": 14
+    },
+    {
+      "id": 55,
+      "name": "Rowerek treningowy York Fitness C520",
+      "description": "Rowerek treningowy York Fitness C520 z wygodnym siodełkiem, regulowanymi pedałami i wielofunkcyjnym wyświetlaczem LCD, mierzącym czas, dystans, prędkość, spalone kalorie i puls.",
+      "image_url": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/20/2024277/YORK-FITNESS-C420-skos.jpg",
+      "price": 1599,
+      "manufacturer": "York Fitness",
+      "category_id": 14
+    },
+    {
+      "id": 56,
+      "name": "Kijki narciarskie Fischer RC4",
+      "description": "Kijki narciarskie Fischer RC4 o długości 120 cm, wykonane z lekkiego i wytrzymałego aluminium, z wygodnym uchwytem i regulowanym paskiem.",
+      "image_url": "https://trojansport.pl/media/products/601d3aba17ab218f6f9eba548e0e657d/images/thumbnail/big_kije-narciarskie-fischer-rc4-the-curv-cf-2020-z30020-1.jpg?lm=1680156050",
+      "price": 199,
+      "manufacturer": "Fischer",
+      "category_id": 14
+    }
+  ]
+}
